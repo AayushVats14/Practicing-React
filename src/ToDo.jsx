@@ -19,8 +19,6 @@ function ToDo() {
         <li>Clean the room</li>
         <li>Save the world</li>
       </ul>
-
-      <button onClick={onCall}>Click Me</button>
     </div>
   );
 }
